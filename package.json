@@ -26,7 +26,7 @@
     "url": "https://github.com/tradle/react-native-level/issues"
   },
   "peerDependencies": {
-    "react-native": ">= 0.7"
+    "react-native": "0.8.0-rc"
   },
   "homepage": "https://github.com/tradle/react-native-level",
   "dependencies": {
